@@ -11,6 +11,8 @@ jupyter notebook or any suitable platform.
 
 **Link to the video** - https://drive.google.com/file/d/1s6c2P6uMhr8yOOZ62fS2h5Wx0dGasc9p/view
 
+**Link to Literature Review** - https://docs.google.com/spreadsheets/d/1DTcgkpp5rwnEthVUWici8GRrRHsi9wIVA5XTYxLsYyQ/edit?usp=sharing
+
 
 # Team SIGMA
 
